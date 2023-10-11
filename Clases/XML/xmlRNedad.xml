@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CALCULAR_EDAD>
+	<EDAD MIN="19" MAX="101">APTO</EDAD>
+	<EDAD MIN="0" MAX="18">NO-APTO</EDAD>
+</CALCULAR_EDAD>

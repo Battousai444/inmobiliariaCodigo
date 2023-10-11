@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\bin\Debug\Clases.dll
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\bin\Debug\Clases.pdb
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\bin\Debug\libComunes.dll
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\bin\Debug\libComunes.pdb
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\obj\Debug\Clases.dll
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\obj\Debug\Clases.pdb
+C:\Users\Acer\Desktop\uni\empresarial\Final Inmobiliaria\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Felipe\Downloads\Final Inmobiliaria\Clases\bin\Debug\Clases.dll
+C:\Users\Felipe\Downloads\Final Inmobiliaria\Clases\bin\Debug\Clases.pdb
+C:\Users\Felipe\Downloads\Final Inmobiliaria\Clases\bin\Debug\libComunes.pdb
+C:\Users\Felipe\Downloads\Final Inmobiliaria\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\Felipe\Downloads\Final Inmobiliaria\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Downloads\Final Inmobiliaria\Clases\obj\Debug\Clases.dll
+C:\Users\Felipe\Downloads\Final Inmobiliaria\Clases\obj\Debug\Clases.pdb
